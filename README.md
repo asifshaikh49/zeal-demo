@@ -1,2 +1,3 @@
 # zeal-demo
-This is my first git repositoy
+This is my first git repository
+Author Asif shaikh
